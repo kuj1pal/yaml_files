@@ -2,7 +2,7 @@ gbp-repos: {You must update to a newer rosdep version by calling..sudo apt-get u
 release-name: groovy
 repositories:
   internal_pkg:
-    url: https://github.com/kuj1pal/internal_pkg.git
+    url: https://github.com/kuj1pal/internal_pkg-release.git
     version: 0.1.0-0
   actionlib:
     url: https://github.com/ros-gbp/actionlib-release.git
