@@ -4,5 +4,4 @@ repositories:
   internal_pkg:
     url: https://github.com/kuj1pal/internal_pkg-release.git
     version: 0.0.0-0
-    
 type: gbp
