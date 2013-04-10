@@ -1,11 +1,10 @@
-'gbp-repos':
-  ? 'You must update to a newer rosdep version by calling..sudo apt-get update &&
-    sudo apt-get install python-rosdep (make sure to uninstall the pip version on
-    Ubuntu)'
-  : !!null 'null'
-'release-name': 'groovy'
-'repositories':
-  'internal_pkg':
-    'url': 'https://github.com/kuj1pal/internal_pkg-release.git'
-    'version': '0.0.0-0'
+gbp-repos:
+  ? You must update to a newer rosdep version by calling..sudo apt-get update && sudo
+    apt-get install python-rosdep (make sure to uninstall the pip version on Ubuntu)
+  : null
+release-name: groovy
+repositories:
+  internal_pkg:
+    url: https://github.com/kuj1pal/internal_pkg-release.git
+    version: 0.0.0-0
 type: gbp
