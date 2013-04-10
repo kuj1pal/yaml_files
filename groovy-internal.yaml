@@ -5,7 +5,7 @@
   : !!null 'null'
 'release-name': 'groovy'
 'repositories':
-  'actionlib':
-    'url': 'https://github.com/ros-gbp/actionlib-release.git'
-    'version': '1.9.11-0'
+  'internal_pkg':
+    'url': 'https://github.com/kuj1pal/internal_pkg-release.git'
+    'version': '0.0.0-0'
 type: gbp
