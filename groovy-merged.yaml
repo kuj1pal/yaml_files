@@ -281,9 +281,6 @@
   'interactive_markers':
     'url': 'https://github.com/ros-gbp/interactive_markers-release.git'
     'version': '1.9.5-0'
-  'internal_pkg':
-    'url': 'https://github.com/kuj1pal/internal_pkg-release.git'
-    'version': '0.0.0-0'
   'ivcon':
     'url': 'https://github.com/ros-gbp/ivcon-release.git'
     'version': '0.1.4-0'
