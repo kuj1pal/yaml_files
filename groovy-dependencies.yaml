@@ -1,0 +1,8 @@
+cache_version: 1
+repositories:
+  internal_pkg?0.0.0-0?internal_pkg:
+    build: [actionlib_msgs, boost, catkin, message_generation, roscpp, rospy, rostest,
+      std_msgs]
+    buildtool: []
+    run: [actionlib_msgs, boost, message_runtime, roscpp, rospy, rostest, std_msgs]
+    test: []
